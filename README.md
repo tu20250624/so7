@@ -64,4 +64,4 @@
 
 Telegram频道传送门：
 精选热门 Telegram 频道入口，涵盖资讯、娱乐、资源等板块，一键直达优质内容，快速发现你真正感兴趣的信息。
-[Canonical link](https://github.com/tu20250624）
+[Canonical link](https://github.com/tu20250624/so7）
